@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg">#F4F8F7</color>
+    <color name="surface">#FFFFFF</color>
+    <color name="surface2">#EDF4F2</color>
+    <color name="surface3">#E3EEEA</color>
+    <color name="text">#10201C</color>
+    <color name="text2">#5B706A</color>
+    <color name="text3">#8A9D97</color>
+    <color name="line">#E1ECE8</color>
+
+    <color name="accent">#0FA396</color>
+    <color name="accent_deep">#0A7E74</color>
+    <color name="accent_soft">#DCF4EF</color>
+    <color name="accent_on">#FFFFFF</color>
+
+    <color name="hero_start">#0A5C54</color>
+    <color name="hero_end">#13A89A</color>
+    <color name="hero_text">#FFFFFF</color>
+    <color name="hero_text2">#D6F3EE</color>
+
+    <color name="green">#12996C</color>
+    <color name="green_soft">#DDF5EA</color>
+    <color name="red">#DE5A5A</color>
+    <color name="red_soft">#FBE6E6</color>
+    <color name="amber">#C9820A</color>
+    <color name="amber_soft">#FBF0D9</color>
+    <color name="scrim">#99000000</color>
+
+    <color name="icon_bg">#8DE7DC</color>
+    <color name="splash_bg">#F4F8F7</color>
+
+    <color name="cat1">#0FA396</color>
+    <color name="cat2">#E8A13A</color>
+    <color name="cat3">#5B8DEF</color>
+    <color name="cat4">#E57A7A</color>
+    <color name="cat5">#9A7BE0</color>
+    <color name="cat6">#48B5A4</color>
+</resources>
